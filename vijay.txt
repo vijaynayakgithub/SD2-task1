@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-I am a student of roehampton
-=======
 i am a student of roehampton
 my id is BAN555483
+my course is sd2git 
